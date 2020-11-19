@@ -28,13 +28,13 @@ After the first challenge is completed, add JavaScript so that:
 - on page load, fetch all the dog breeds using the url above ⬆️
 - add the breeds to the page in an `<ul>` (take a look at the included `index.html`)
 
-<details> 
-  <summary>Hint 1</summary>
+<details>
+  <summary>Show Hint 1</summary>
   Make sure to inspect the data being returned by the API! Where are the breed names being stored? How is the data structured?
 </details>
 
 <details>
-  <summary>Hint 2</summary>
+  <summary>Show Hint 2</summary>
   You'll need a way to iterate over the KEYS of the object being returned (Google/MDN are your friends here)!
 </details>
 
@@ -54,7 +54,7 @@ When the user clicks any of the dog breed list items, the color the text should 
 
 ---
 
-## Challenge 4: 20 mins
+## Challenge 4
 
 Once we are able to load _all_ of the dog breeds onto the page, add JavaScript so that the user can filter breeds that start with a particular letter using a dropdown.
 
